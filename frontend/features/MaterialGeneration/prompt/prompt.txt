@@ -1,0 +1,3 @@
+TOC;For this topic create a table of content
+List;give me just a simple and short list of all topics of a table of contents regarding following topic, pls dont write your comments at the beginning and end i just want the results for this topic 
+Handout;Create a handout for this topic

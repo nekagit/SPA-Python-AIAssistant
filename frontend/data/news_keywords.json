@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Serbia",
+        "emoji": "\ud83c\uddf7\ud83c\uddf8",
+        "search": "Serbia"
+    },
+    {
+        "name": "Germany",
+        "emoji": "\ud83c\udde9\ud83c\uddea",
+        "search": "Germany"
+    },
+    {
+        "name": "US",
+        "emoji": "\ud83c\uddfa\ud83c\uddf8",
+        "search": "United States"
+    },
+    {
+        "name": "Russia",
+        "emoji": "\ud83c\uddf7\ud83c\uddfa",
+        "search": "Russia"
+    },
+    {
+        "name": "China",
+        "emoji": "\ud83c\udde8\ud83c\uddf3",
+        "search": "China"
+    },
+    {
+        "name": "World",
+        "emoji": "\ud83c\udf0d",
+        "search": "World"
+    },
+    {
+        "name": "AI",
+        "emoji": "\ud83e\udd16",
+        "search": "Artificial Intelligence"
+    },
+    {
+        "name": "Anime",
+        "emoji": "\ud83c\udf8c",
+        "search": "Anime"
+    },
+    {
+        "name": "Tech Job",
+        "emoji": "\ud83d\udcbb",
+        "search": "Technology Jobs"
+    }
+]

@@ -1,0 +1,4 @@
+Give me a handout of following topic 
+Give me a summary of following topic 
+Fix this code 
+Refactor this code 

@@ -1,0 +1,7 @@
+streamlit
+requests
+google-generativeai
+openai
+pygooglenews
+newsapi-python
+streamlit_calendar
